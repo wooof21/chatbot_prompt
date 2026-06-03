@@ -15,9 +15,15 @@
   * localStorage.removeItem("chat_session_id")
 
 
-<img src="1.png" alt="Screenshot 1" width="300" height="400">
-<img src="2.png" alt="Screenshot 2" width="300" height="400">
-<img src="3.png" alt="Screenshot 3" width="300" height="400">
-<img src="4.png" alt="Screenshot 4" width="300" height="400">
-<img src="5.png" alt="Screenshot 5" width="300" height="400">
-<img src="6.png" alt="Screenshot 6" width="300" height="400">
+<table>
+  <tr>
+    <td><img src="1.png" alt="Screenshot 1" width="300" height="400"></td>
+    <td><img src="2.png" alt="Screenshot 2" width="300" height="400"></td>
+    <td><img src="3.png" alt="Screenshot 3" width="300" height="400"></td>
+  </tr>
+  <tr>
+    <td><img src="4.png" alt="Screenshot 4" width="300" height="400"></td>
+    <td><img src="5.png" alt="Screenshot 5" width="300" height="400"></td>
+    <td><img src="6.png" alt="Screenshot 6" width="300" height="400"></td>
+  </tr>
+</table>
